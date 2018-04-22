@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "939188581494",
+    "firebase_url": "https://project-mad-abhay.firebaseio.com",
+    "project_id": "project-mad-abhay",
+    "storage_bucket": "project-mad-abhay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939188581494:android:c37a79d6f8e255ed",
+        "android_client_info": {
+          "package_name": "com.example.abhayjain.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939188581494-kkvojbrvjb10a5mjea3umo399d5ogpvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDQyxph9z1IB1Sm5Y4fo_ifEioOJ2aWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

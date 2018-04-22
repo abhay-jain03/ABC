@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023524625444",
+    "firebase_url": "https://help-df-abhay.firebaseio.com",
+    "project_id": "help-df-abhay",
+    "storage_bucket": "help-df-abhay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023524625444:android:97d34415c4232561",
+        "android_client_info": {
+          "package_name": "abhayjain.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023524625444-96ft48vp6d5kih54km860doe1molc717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yyhvKXt6Sjx-mFS9YE83FDtsLlJohVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
